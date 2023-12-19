@@ -1,12 +1,15 @@
 # Linode-NodeApp
+@andsju
 
-A tutorial showing how to setup a Node.js application in Linode (Debian 12 server). 
+A tutorial showing how to setup a Node.js application in Linode.
+
+Linode - https://www.linode.com
 
 Login using your Linode account. If you don´t have account - create one.
 
 ## Setup a Debian server
 
-Create a Linode (https://www.linode.com/) Debian 12 server. Follow the gudie and choose to create a simple server at a region nearby. Set a password for the account *root*. 
+Create a Debian 12 server. Follow the gudie and choose to create a simple server at a region nearby. Set a password for the account *root*. 
 
 Some screenshots:
 
